@@ -4,7 +4,7 @@
 
 \*\*Workflow Step\*\*: Step 5 of 3  
 
-\*\*Current Version\*\*: v1.0  
+\*\*Current Version\*\*: v1.2  
 
 \*\*Status\*\*: 🔄 In Progress  
 
@@ -16,7 +16,7 @@
 
 
 
-### **## 📌 \*\*Prompt Text (v1.0 — Current)\*\***
+### **## 📌 \*\*Prompt Text (v1.2 — Current)\*\***
 
 
 
