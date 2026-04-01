@@ -4,7 +4,7 @@
 
 \*\*Workflow Step\*\*: Step 3 of 3  
 
-\*\*Current Version\*\*: v1.0  
+\*\*Current Version\*\*: v1.2  
 
 \*\*Status\*\*: 🔄 In Progress  
 
