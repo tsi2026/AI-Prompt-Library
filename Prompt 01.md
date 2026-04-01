@@ -14,7 +14,7 @@
 
 
 
-**📌 Prompt Text (v1.0 — Current)**
+**📌 Prompt Text (v1.2 — Current)**
 
 ---
 
